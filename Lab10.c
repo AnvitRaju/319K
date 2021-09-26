@@ -1,6 +1,6 @@
 // Lab10.c
 // Runs on TM4C123
-// Anvit Raju and Sarthak Gupta
+// Anvit Raju
 // EE319K Lab 10
 
 /* 
