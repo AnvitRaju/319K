@@ -3,7 +3,7 @@ Embedded Systems<br/>
 Lab 10<br/>
 
 Space Invaders<br/>
-Anvit Raju and Sarthak Gupta
+Anvit Raju
 
 This game is our take on a classic arcade game, Space Invaders, in which a player moves their spaceship to aim at and obliterate enemy ships before they reach the bottom of the screen. We will use the slide pot to strafe left and right for aiming at the enemies. We will also use two buttons: one for shooting at the ships that are remaining on the screen, and the other for pausing the game. The score will be calculated and displayed at the end of the game depending on the number of enemies shot with respect to different weightages depending on the type of enemy. Player wins if all the enemy ships are destroyed before they reach the bottom.
 
